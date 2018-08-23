@@ -67,7 +67,6 @@ export class BootGame extends Phaser.Scene{
         this.load.image("restart", "assets/sprites/restart.png");
         this.load.image("scorepanel", "assets/sprites/scorepanel.png");
         this.load.image("scorelabels", "assets/sprites/scorelabels.png");
-        this.load.image("logo", "assets/sprites/logo.png");
         this.load.image("howtoplay", "assets/sprites/howtoplay.png");
         this.load.image("gametitle", "assets/sprites/gametitle.png");
 
